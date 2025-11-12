@@ -31,3 +31,6 @@ O foco do projeto é o **design da interface**, não possuindo funcionalidades c
 - **Estilos personalizados** com `BoxDecoration`, `Padding` e `TextStyle`
 
 ---
+![image alt](https://github.com/OtavioDamasceno/tela-de-login-FlutterWeb/blob/5332d1c7b9c658698ba75e59b15d1ec632b45565/image.png)
+
+
